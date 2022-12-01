@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['B_point', 'circle', 'cut', 'foreign', 'project', 's_point', 'scratch', 'short', 'width']
+
+roboflow:
+  workspace: display
+  project: dis-elnbr
+  version: 27
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/display/dis-elnbr/dataset/27

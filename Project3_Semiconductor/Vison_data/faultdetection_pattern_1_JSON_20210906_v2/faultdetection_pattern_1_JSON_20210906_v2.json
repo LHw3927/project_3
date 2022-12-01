@@ -1,0 +1,6242 @@
+{"project_name": "fault-detection-pattern_1", "create_date": "2021-08-27T05:49:54Z", "export_format_version": "1.1", "export_date": "2021-09-06T10:47:19Z", "label_classes": [{
+"class_id": "b0eb15d2-0b31-48d0-adea-988b0420f6b8",
+"parent_class_id": null,
+"class_name": "defect_type_1",
+"class_type": "object",
+"color": "#b5b5b54d",
+"norder": 10.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "81145455-3fb4-413f-971d-9e58c63b5475",
+"parent_class_id": null,
+"class_name": "defect_type_2",
+"class_type": "object",
+"color": "#1e5faa4d",
+"norder": 11.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "bf64a2e6-d5a9-49bd-92e2-6e54416a9705",
+"parent_class_id": null,
+"class_name": "defect_type_3",
+"class_type": "object",
+"color": "#6a3d9a4d",
+"norder": 12.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "0874e4cc-fabf-439c-a1b4-612792762f86",
+"parent_class_id": null,
+"class_name": "defect_type_4",
+"class_type": "object",
+"color": "#ffff994d",
+"norder": 13.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "5244d353-289a-4f31-84f0-9fba6047cccf",
+"parent_class_id": null,
+"class_name": "defect_type_5",
+"class_type": "object",
+"color": "#b159284d",
+"norder": 14.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "0e89f5a5-8150-47ac-8602-0646c69678b3",
+"parent_class_id": null,
+"class_name": "defect_type_6",
+"class_type": "object",
+"color": "#5547ea4d",
+"norder": 15.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "16692481-aed9-413e-94fa-25f1288ad93b",
+"parent_class_id": null,
+"class_name": "defect_type_7",
+"class_type": "object",
+"color": "#9402a64d",
+"norder": 16.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "0b37f2da-88b3-42b3-b1f0-a830b467633e",
+"parent_class_id": null,
+"class_name": "defect_type_8",
+"class_type": "object",
+"color": "#5ef5b84d",
+"norder": 17.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "92aa4d79-9d17-4e10-aa93-f938a74f6a1a",
+"parent_class_id": null,
+"class_name": "defect_type_9",
+"class_type": "object",
+"color": "#e043d94d",
+"norder": 18.0,
+"icon_url": null,
+"attributes": []
+}], "images": [{
+"image_id": "d0c7acbd-63ed-4fd7-ae0b-a63655e831e2",
+"image_name": "pattern_1-1-1-10-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "0f08c384-4bce-4aca-807a-c8d0a3ccb75a",
+"image_name": "pattern_1-1-1-11.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1199,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "61cd8d98-70e8-43dd-adb2-047b33e69102",
+"image_name": "pattern_1-1-1-13-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "399b7142-d135-4b3e-be53-9752f4415333",
+"image_name": "pattern_1-1-1-14-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "2f96e5b2-6575-4fa3-b87d-f4f86faac0ec",
+"image_name": "pattern_1-1-1-15.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1199,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "270dafda-1bf2-4159-9bcf-b96bff560e40",
+"image_name": "pattern_1-1-1-16-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "4efc0058-0eca-434b-a700-cc0398f981a7",
+"image_name": "pattern_1-1-1-17-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "98c8d37f-4690-42b6-b360-939688e5c786",
+"image_name": "pattern_1-1-1-18.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1199,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "4261b9a1-acd6-4da3-a0a8-cfe9bb49dec7",
+"image_name": "pattern_1-1-1-1-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "c08b49ea-e7a7-44c8-b305-2b752c58595e",
+"image_name": "pattern_1-1-1-20-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "5b493e64-1326-438b-8ab5-51654e1f2a98",
+"image_name": "pattern_1-1-1-21-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1199,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "37c0531e-8500-4ecd-82e1-66b57bd64270",
+"image_name": "pattern_1-1-1-22.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "b784853e-73d3-4707-994c-289dc5b24209",
+"image_name": "pattern_1-1-1-23-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "41cff16c-f6c5-476e-8748-d7c7df9b25d0",
+"image_name": "pattern_1-1-1-24-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "f9cbfdf6-460d-44d5-97d5-aedc3530667c",
+"image_name": "pattern_1-1-1-25-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1199,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "b5b299ca-3fbf-4988-b8e4-6e77a8c2e9ea",
+"image_name": "pattern_1-1-1-26-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1199,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "5ccf8662-a5e8-4193-ac2b-93a4017ee118",
+"image_name": "pattern_1-1-1-2.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "b8c26b25-23c0-48dd-8213-efe92ff19503",
+"image_name": "pattern_1-1-1-36-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1199,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "3cf5f826-7b86-4a86-89e1-ad01f755ff69",
+"image_name": "pattern_1-1-1-37-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "4a245f27-175a-425a-8243-510a240f810e",
+"image_name": "pattern_1-1-1-3-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "f5add42d-ad61-488b-81fd-9549bb2ed31a",
+"image_name": "pattern_1-1-1-40-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "66e20ccf-ad0c-4779-ba33-40072852ad7e",
+"image_name": "pattern_1-1-1-4.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "1002508d-c55d-400b-855d-b7adc730b2f2",
+"image_name": "pattern_1-1-1-5.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "c7ba8f1f-3ddc-4943-b10d-1134155dc770",
+"image_name": "pattern_1-1-1-6.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "2b1c0a63-13ea-4c84-bedf-3e5b560c3646",
+"image_name": "pattern_1-1-1-7-D.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "db138a83-0143-4438-8aa5-6116cb4aced5",
+"image_name": "pattern_1-1-1-8.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "b877f33c-6c8b-4f95-8ad8-6387933366c2",
+"image_name": "pattern_1-1-1-9.jpg",
+"dataset_name": "pattern_type_1",
+"width": 1200,
+"height": 1200,
+"image_status": "DONE",
+"tags": [],
+"labels": []
+}, {
+"image_id": "04b71cf9-f6e8-4c76-be56-73813ea52bec",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-8-12-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "487e104a-7515-4ade-ad16-65d72bc5ddfb",
+"class_name": "defect_type_8",
+"bbox": [
+952,
+161,
+1072,
+254
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "84de2308-d8ea-4a3e-bf70-34515576fe29",
+"class_name": "defect_type_8",
+"bbox": [
+401,
+468,
+486,
+583
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "efa8743e-28df-4533-89cc-19763935ca14",
+"class_name": "defect_type_8",
+"bbox": [
+174,
+991,
+289,
+1076
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "f2622815-bea6-4670-85e4-5e264bc33f82",
+"class_name": "defect_type_1",
+"bbox": [
+729,
+828,
+738,
+844
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "076c9f0f-568e-4c77-a99b-791ad80b3472",
+"width": 1199,
+"height": 1170,
+"image_name": "pattern_1-1-3-11-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "3e09d82f-7368-45ee-b38d-79fd0b2543ad",
+"class_name": "defect_type_3",
+"bbox": [
+293,
+246,
+456,
+929
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "0b4e2389-f31f-405d-b27d-71e25598a573",
+"width": 1158,
+"height": 1157,
+"image_name": "pattern_1-1-6-2.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "45a1eac6-1383-448b-832b-4871a72d6ed1",
+"class_name": "defect_type_6",
+"bbox": [
+1016,
+271,
+1051,
+394
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "cfee03f3-1320-43b4-9109-33f409270d23",
+"class_name": "defect_type_6",
+"bbox": [
+252,
+954,
+375,
+1019
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "f50524b1-8c13-4b51-8d39-a20f854d85aa",
+"class_name": "defect_type_6",
+"bbox": [
+132,
+37,
+174,
+100
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "0bfd95f0-eec2-4101-a12d-337046693434",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-4-10-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "03f8e413-fdb8-4342-b16d-21f3f384522f",
+"class_name": "defect_type_1",
+"bbox": [
+384,
+817,
+392,
+826
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "08e2dc16-2ccb-419e-a27e-4f404f99f34a",
+"class_name": "defect_type_1",
+"bbox": [
+1195,
+191,
+1199,
+198
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "cc64d329-e926-429a-97f1-e225fd8a2446",
+"class_name": "defect_type_1",
+"bbox": [
+821,
+576,
+864,
+600
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "e7ed834a-44bb-4297-b967-ff8d833ce421",
+"class_name": "defect_type_4",
+"bbox": [
+583,
+540,
+752,
+1002
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "103355fb-12da-4989-a4e1-6c3ecb8830ee",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-3-10-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1ab14e28-ddb1-4ff8-8432-074545ab3094",
+"class_name": "defect_type_3",
+"bbox": [
+289,
+231,
+456,
+917
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "1322b85e-4915-4ef0-9930-19c901e4ee84",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-4-6-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "8759f924-7d8c-430d-ad3e-1ba5188fb24a",
+"class_name": "defect_type_1",
+"bbox": [
+0,
+869,
+515,
+1117
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "a01dea5c-e71d-41f2-b96a-8b0c4fc8eaff",
+"class_name": "defect_type_1",
+"bbox": [
+0,
+1071,
+115,
+1115
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "cda9ff9e-8806-4c9d-9acd-5f133447737f",
+"class_name": "defect_type_1",
+"bbox": [
+406,
+868,
+518,
+954
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "ec16e7ab-e0dd-49e4-8a1b-42f162c4bb9b",
+"class_name": "defect_type_4",
+"bbox": [
+568,
+550,
+734,
+1007
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "1812d8f5-0494-4215-999d-be1a377247fb",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-9-2-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "47a3f879-a037-486d-9387-a2faff49fab8",
+"class_name": "defect_type_9",
+"bbox": [
+1019,
+1003,
+1177,
+1164
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "a7f3440f-2c63-45d1-a0aa-12810c5e25f6",
+"class_name": "defect_type_9",
+"bbox": [
+50,
+75,
+208,
+234
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "1b7c8d87-017e-40f8-89f7-188934c33ab0",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-5-3.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "8eafaf6c-7d3e-4b05-b291-58aa0fa0492c",
+"class_name": "defect_type_5",
+"bbox": [
+234,
+880,
+304,
+948
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "ce2db69b-3e86-4e47-a3c8-333fc03f73df",
+"class_name": "defect_type_5",
+"bbox": [
+1104,
+987,
+1175,
+1052
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "f74c17fc-bfb6-40cb-9f8f-da844f2f9a9e",
+"class_name": "defect_type_5",
+"bbox": [
+531,
+252,
+595,
+320
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "278e1b78-f25e-437c-b31f-031e3f6fc288",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-4-3-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "26dc968c-0efa-4781-b0fb-a06e7aa24427",
+"class_name": "defect_type_1",
+"bbox": [
+35,
+192,
+44,
+201
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "58a2c13a-eaa1-44f2-adf9-3f3b7dacd032",
+"class_name": "defect_type_4",
+"bbox": [
+572,
+548,
+741,
+1006
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "ab472446-8687-4736-8ce3-a1a52f54ade9",
+"class_name": "defect_type_1",
+"bbox": [
+32,
+190,
+47,
+203
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "27d2b939-3e1a-4e01-aa2a-de8c19bbefb4",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-5-1-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "301ab45d-cd54-4250-ac7d-9fc334cd82c4",
+"class_name": "defect_type_5",
+"bbox": [
+237,
+898,
+300,
+961
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "87e49785-8d62-4645-9ccf-8fd230627ede",
+"class_name": "defect_type_1",
+"bbox": [
+1085,
+961,
+1101,
+976
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "c74ab265-324f-47f7-abef-8d8b414f5dfa",
+"class_name": "defect_type_5",
+"bbox": [
+1103,
+1000,
+1176,
+1064
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "cbb0a980-c7fa-46ed-a95b-415be2333414",
+"class_name": "defect_type_5",
+"bbox": [
+533,
+266,
+593,
+331
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "ff486cf3-70d6-4b9f-bc05-6d8c5d9e70a2",
+"class_name": "defect_type_1",
+"bbox": [
+973,
+734,
+991,
+759
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "2832f37f-d2d6-4318-ad83-34cfbe24b447",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-4-4-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "482118bb-3fcc-4629-891b-52d84d0bd59f",
+"class_name": "defect_type_1",
+"bbox": [
+793,
+684,
+804,
+696
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "653b624b-82d6-469d-8a41-d67858840ba6",
+"class_name": "defect_type_4",
+"bbox": [
+570,
+545,
+736,
+1005
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "29d7c1ac-e667-49a0-99b5-f46a67738c55",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-5-7-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "4e439b37-b2d4-4764-97fb-78bd28def5df",
+"class_name": "defect_type_1",
+"bbox": [
+1106,
+333,
+1130,
+357
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "cd0078bc-9d18-423f-a8f1-2b59a1fd54a7",
+"class_name": "defect_type_5",
+"bbox": [
+254,
+861,
+320,
+932
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "d95907d9-302a-4231-bd2d-a951e1b643e7",
+"class_name": "defect_type_1",
+"bbox": [
+778,
+378,
+794,
+399
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "e097906d-84e8-4b89-ab55-c272fbdcc3ec",
+"class_name": "defect_type_5",
+"bbox": [
+1125,
+969,
+1193,
+1031
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "e773c0cb-6463-4ab6-8199-32b40da3134e",
+"class_name": "defect_type_5",
+"bbox": [
+551,
+237,
+611,
+301
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "2e0f3110-6f38-4a3c-ab8b-5049fc097f66",
+"width": 1190,
+"height": 1190,
+"image_name": "pattern_1-1-7-9-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "5f49b806-b287-41fb-b95e-0d3838b1f656",
+"class_name": "defect_type_7",
+"bbox": [
+239,
+121,
+309,
+195
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "ad425c21-26c9-4865-bc89-1241a5a43bbd",
+"class_name": "defect_type_7",
+"bbox": [
+717,
+1047,
+797,
+1122
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "32315e63-31bf-4688-844a-206205e6f2c5",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-9-6-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2bfe6a04-ff13-4b44-831b-a2d6da5ba17e",
+"class_name": "defect_type_9",
+"bbox": [
+1011,
+979,
+1172,
+1139
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "40108c87-f010-4e73-ae3d-49b531968b9b",
+"class_name": "defect_type_1",
+"bbox": [
+1091,
+136,
+1111,
+160
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "6e4b2e25-40d9-44f3-9ed3-43a00074d7ce",
+"class_name": "defect_type_1",
+"bbox": [
+532,
+122,
+543,
+133
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "e51aaab4-d51c-4adf-a18e-2d96274db3cf",
+"class_name": "defect_type_9",
+"bbox": [
+43,
+45,
+206,
+211
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "34569ca3-814c-496f-807c-6ff601d8a0b4",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-6-4-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "08a02774-224d-452f-8c5a-2a256ab4da43",
+"class_name": "defect_type_1",
+"bbox": [
+1094,
+403,
+1200,
+441
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "45cc4d6b-521e-43b6-925d-4febdd98a37d",
+"class_name": "defect_type_6",
+"bbox": [
+264,
+965,
+384,
+1027
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "b608a6db-80a2-4449-9c51-e8651f480874",
+"class_name": "defect_type_6",
+"bbox": [
+1006,
+279,
+1067,
+403
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "e7c8fcfa-a2ae-4d16-8f94-27e9e9f7e649",
+"class_name": "defect_type_6",
+"bbox": [
+147,
+44,
+188,
+107
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "348e6e87-3330-48ba-bd2d-499da4913804",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-2-5-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1028fc1a-e015-4b4e-a708-1be5155e8fb0",
+"class_name": "defect_type_1",
+"bbox": [
+68,
+889,
+93,
+913
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "72fcb47f-bd60-4462-b65f-524728b4235c",
+"class_name": "defect_type_2",
+"bbox": [
+188,
+427,
+249,
+469
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "86f2c9cf-81c8-4b5f-bfea-01aaf82a0b47",
+"class_name": "defect_type_2",
+"bbox": [
+966,
+210,
+1030,
+278
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "a45b0c37-81a4-4acb-b4c5-97eb4bc69579",
+"class_name": "defect_type_1",
+"bbox": [
+51,
+61,
+143,
+363
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "f5970a31-82be-497e-9b47-2a0e7736ecbf",
+"class_name": "defect_type_1",
+"bbox": [
+68,
+889,
+93,
+913
+],
+"polygon": null,
+"mask": null,
+"z_index": 5,
+"attributes": {}
+},
+{
+"id": "fb12bc70-631c-409e-a86b-1431c7073f3f",
+"class_name": "defect_type_2",
+"bbox": [
+183,
+936,
+252,
+1002
+],
+"polygon": null,
+"mask": null,
+"z_index": 4,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "36079bba-3ec9-4875-9d93-8f4c3bd6e3e3",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-9-9-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "39f0aef3-16b1-4fcc-bb1e-dd33d8b3b4fb",
+"class_name": "defect_type_1",
+"bbox": [
+289,
+61,
+299,
+73
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "5ea6932b-7a65-4109-8444-7f47d8b3c8de",
+"class_name": "defect_type_1",
+"bbox": [
+807,
+797,
+821,
+818
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "6e7cc298-329e-4094-a791-3cf7a32e956e",
+"class_name": "defect_type_9",
+"bbox": [
+23,
+45,
+184,
+208
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "75bd21b9-04af-43e8-99c7-4fdacc11464e",
+"class_name": "defect_type_9",
+"bbox": [
+999,
+973,
+1159,
+1133
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "36b23549-8cba-4f4d-8199-d55946ca4e42",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-4-5-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "58b50f6b-54a7-4e03-98bd-1aba3a2a13a4",
+"class_name": "defect_type_4",
+"bbox": [
+580,
+557,
+746,
+1014
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "387f9bb3-e63a-47e3-bea0-f28d0f3715fe",
+"width": 1151,
+"height": 1150,
+"image_name": "pattern_1-1-2-7-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1fe64f01-4aed-4c31-95b8-ff8b2ee67118",
+"class_name": "defect_type_2",
+"bbox": [
+158,
+396,
+220,
+433
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "9f792cd2-f344-4b1b-8ceb-b1185b549969",
+"class_name": "defect_type_2",
+"bbox": [
+934,
+174,
+1001,
+242
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "b9b5a810-a7f6-4886-b56f-85581465bb8d",
+"class_name": "defect_type_1",
+"bbox": [
+204,
+151,
+222,
+170
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "d5f3bf56-4640-4f8f-9383-9017e083ce62",
+"class_name": "defect_type_2",
+"bbox": [
+156,
+904,
+221,
+967
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "3b1f38bd-d439-413a-90fd-27ffbd9200b5",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-1-30-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "23784354-668d-475a-a0e5-cb5b17c7ccda",
+"class_name": "defect_type_1",
+"bbox": [
+993,
+820,
+1017,
+911
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "4ce252bb-b47b-4bc7-9635-5ec9e38974fa",
+"class_name": "defect_type_1",
+"bbox": [
+999,
+287,
+1087,
+815
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "b0513ecf-bf69-4268-93e3-7a8ad7265833",
+"class_name": "defect_type_1",
+"bbox": [
+985,
+1085,
+998,
+1108
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "fa866b5f-4d72-4b48-885b-38587f052e85",
+"class_name": "defect_type_1",
+"bbox": [
+976,
+979,
+1009,
+1078
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "3d4a4373-b031-4e3b-91fc-0e283316d01a",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-3-5-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "b54d46d4-8485-4f19-912b-a83e5ea9f91f",
+"class_name": "defect_type_3",
+"bbox": [
+287,
+246,
+448,
+927
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "3e106e38-ee68-445f-b8e6-36a4fe30d330",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-3-8.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "dad85bae-9c1f-4b05-bc4e-60d64916be85",
+"class_name": "defect_type_3",
+"bbox": [
+287,
+291,
+456,
+977
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "429891c0-958a-4686-94d8-ce62ceedd029",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-2-6-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "42707c7b-59da-48c5-8188-be5f653cf608",
+"class_name": "defect_type_2",
+"bbox": [
+957,
+173,
+1021,
+245
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "83ab5f42-c91c-47af-ae60-7ae1c59e726e",
+"class_name": "defect_type_2",
+"bbox": [
+173,
+900,
+244,
+965
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "a6d6ee4e-90df-48b9-9e80-81bb818ed44c",
+"class_name": "defect_type_1",
+"bbox": [
+734,
+882,
+748,
+905
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "cc6bc6d5-dd50-42fc-8b28-405d3d6697fa",
+"class_name": "defect_type_2",
+"bbox": [
+176,
+395,
+241,
+434
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "43789195-c54b-4cde-a495-024c4fcf1249",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-2-3-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "036f0dcb-96c0-4eb0-bcf5-159d7a9cff7e",
+"class_name": "defect_type_1",
+"bbox": [
+1162,
+721,
+1179,
+738
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "29d040bd-03e2-44c1-ad2a-15dcf401e9c1",
+"class_name": "defect_type_2",
+"bbox": [
+955,
+223,
+1029,
+290
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "2e5f6458-da20-4d14-b881-9b7ad491865b",
+"class_name": "defect_type_2",
+"bbox": [
+182,
+439,
+249,
+485
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "be2d5a53-3a57-4348-bc09-fb8f0cbd5ed0",
+"class_name": "defect_type_2",
+"bbox": [
+181,
+950,
+250,
+1014
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "ffdbcdb9-4239-4d44-9887-c3ca9f114c9c",
+"class_name": "defect_type_1",
+"bbox": [
+821,
+531,
+858,
+567
+],
+"polygon": null,
+"mask": null,
+"z_index": 4,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "47a3388b-21cc-4614-b8a2-0205776c8d29",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-8-5-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2a016808-c614-4b92-be1b-a66ee3d260f6",
+"class_name": "defect_type_8",
+"bbox": [
+409,
+429,
+499,
+546
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "38366af6-789a-4580-9e4f-d491c5f2fd51",
+"class_name": "defect_type_8",
+"bbox": [
+188,
+952,
+300,
+1040
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "8b254e47-0717-455d-a954-7bc4353d7086",
+"class_name": "defect_type_8",
+"bbox": [
+966,
+129,
+1087,
+217
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "585d3ee6-d06e-43a5-85b6-7e22eb67f096",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-4-2.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "ce5ecba9-8a9a-4b60-8623-0871b878c245",
+"class_name": "defect_type_4",
+"bbox": [
+572,
+534,
+737,
+988
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "5bcb31c9-7a2f-4b6f-847a-6c2079c8ed79",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-3-7-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2c9c8703-0bb4-4fe8-9cb4-35f6e72bc87e",
+"class_name": "defect_type_3",
+"bbox": [
+291,
+238,
+452,
+922
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "4996f926-7921-465c-ac5b-5d7ca2c7e14e",
+"class_name": "defect_type_1",
+"bbox": [
+298,
+464,
+306,
+475
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "7f5bf7c1-e55d-4e7d-b02d-f2db2bf2614d",
+"class_name": "defect_type_1",
+"bbox": [
+1078,
+1088,
+1199,
+1199
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "5e8adf61-cad0-4329-9227-cbd4a03b248e",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-2-2-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "0f94e3c8-2777-489e-9956-16350d866a55",
+"class_name": "defect_type_2",
+"bbox": [
+964,
+211,
+1038,
+284
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "1ef9fa2e-6965-4564-92c4-19998e992165",
+"class_name": "defect_type_2",
+"bbox": [
+188,
+940,
+255,
+1005
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "f4288f02-6dc1-43b8-8665-33fabae477da",
+"class_name": "defect_type_2",
+"bbox": [
+192,
+424,
+256,
+475
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "621c0ec9-cbfa-4988-8e01-1537b0857145",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-2-12-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "0db29047-cfd8-4708-abff-8db725b45213",
+"class_name": "defect_type_2",
+"bbox": [
+957,
+224,
+1023,
+295
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "20a18dba-28e9-4ce4-8941-83114708b07a",
+"class_name": "defect_type_2",
+"bbox": [
+176,
+956,
+244,
+1020
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "4ea61ff6-16a0-4a37-b028-c54c0c391e44",
+"class_name": "defect_type_1",
+"bbox": [
+299,
+362,
+312,
+379
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "971b3fc8-85cf-4925-9e9d-94cd9244e5d9",
+"class_name": "defect_type_2",
+"bbox": [
+180,
+445,
+243,
+489
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "acd9023c-76e4-4cd5-b594-b929966f2a79",
+"class_name": "defect_type_1",
+"bbox": [
+168,
+529,
+180,
+541
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "64cecaec-f6c3-43da-adec-45083343c55a",
+"width": 1149,
+"height": 1148,
+"image_name": "pattern_1-1-7-8-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "4fe02fd1-8856-40b9-9abe-457c867812ec",
+"class_name": "defect_type_7",
+"bbox": [
+199,
+90,
+268,
+163
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "ccc0f2eb-753e-489e-98f4-b64cc68fae9d",
+"class_name": "defect_type_1",
+"bbox": [
+137,
+490,
+158,
+506
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "cf6f8ba2-8ca9-4591-b07b-ff18c449523b",
+"class_name": "defect_type_7",
+"bbox": [
+682,
+1016,
+759,
+1086
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "66fdfc16-a67a-48ed-8f9f-06549e54c1e1",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-1-19-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "78bbfc1e-561c-4c7c-a121-2f30248c890f",
+"class_name": "defect_type_1",
+"bbox": [
+702,
+1009,
+712,
+1018
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "694d03af-73b7-4308-8b7e-d6ccc12a6693",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-1-28-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "85f01a35-bb7c-4a55-8f72-52b58653ff27",
+"class_name": "defect_type_1",
+"bbox": [
+416,
+1037,
+561,
+1122
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "6ae1a582-c420-4fe1-87cd-4e3fdc4976c9",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-9-4-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "05a2edf7-2bc4-4e75-8a79-71beae025b8d",
+"class_name": "defect_type_9",
+"bbox": [
+28,
+69,
+192,
+234
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "1a1d43b2-22df-436f-aa4b-8eab4fed01b0",
+"class_name": "defect_type_9",
+"bbox": [
+1000,
+1000,
+1159,
+1163
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "94d2b467-93a1-49c7-9507-cefd6daf5e3f",
+"class_name": "defect_type_1",
+"bbox": [
+670,
+758,
+682,
+775
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "6b431058-8652-4fd7-93e4-36a039e4d034",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-4-12-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "6c202233-71d3-426e-9008-afcd1c4bbccb",
+"class_name": "defect_type_4",
+"bbox": [
+585,
+523,
+750,
+979
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "f7fc0281-c94c-43a0-9848-be22c9b8955b",
+"class_name": "defect_type_1",
+"bbox": [
+176,
+608,
+189,
+621
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "6bdc0e45-6c1e-4203-bb29-92f22a2ce2df",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-2-11-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1fe7b2f7-323f-4684-a193-fbcbae0c42f7",
+"class_name": "defect_type_2",
+"bbox": [
+958,
+218,
+1022,
+283
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "cac62a2f-5d1f-443a-b287-3428f5a8e69c",
+"class_name": "defect_type_2",
+"bbox": [
+175,
+947,
+250,
+1008
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "d2cfe6b1-0202-47bf-a732-453c3f9cec89",
+"class_name": "defect_type_2",
+"bbox": [
+181,
+433,
+243,
+475
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "6db324d3-4d5c-490d-a6cc-d542fe8181d7",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-5-2-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "11285f2e-74bc-49f5-90a2-cd2016c0acad",
+"class_name": "defect_type_5",
+"bbox": [
+1104,
+995,
+1178,
+1062
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "1cb70ad4-b99f-4124-8b5a-88fe879b2abd",
+"class_name": "defect_type_5",
+"bbox": [
+531,
+262,
+595,
+330
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "984f2f8f-5cfc-40a9-b790-8d4b6886e803",
+"class_name": "defect_type_5",
+"bbox": [
+235,
+893,
+299,
+956
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "70fc03f3-7647-4965-a2f4-587f39342a9f",
+"width": 1184,
+"height": 1121,
+"image_name": "pattern_1-1-5-12-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1b368d1f-030e-46b7-bf9d-2364b53756de",
+"class_name": "defect_type_5",
+"bbox": [
+517,
+220,
+575,
+282
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "3139edfe-f82c-4935-aa05-9f3df7d41e1e",
+"class_name": "defect_type_5",
+"bbox": [
+1078,
+951,
+1161,
+1022
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "aadd164d-07d2-4ba2-8052-7638ce211df3",
+"class_name": "defect_type_5",
+"bbox": [
+219,
+845,
+282,
+912
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "71557b71-2062-4f05-ac1b-7b1d19350d09",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-9-5-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "51c326b3-18ff-45d3-aed8-24fa515d001f",
+"class_name": "defect_type_1",
+"bbox": [
+307,
+159,
+322,
+174
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "e3c4e5f1-649c-4315-973b-3b24873b057a",
+"class_name": "defect_type_9",
+"bbox": [
+1009,
+995,
+1167,
+1156
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "ebb96336-6038-4e01-a191-bec48b0428b8",
+"class_name": "defect_type_9",
+"bbox": [
+37,
+65,
+200,
+225
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "74a5d300-aa2c-4533-9dce-9baf19baa94e",
+"width": 1170,
+"height": 1171,
+"image_name": "pattern_1-1-5-8-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "6a3dc411-5f07-4774-a3ae-a2eef4bae9b6",
+"class_name": "defect_type_5",
+"bbox": [
+520,
+210,
+584,
+278
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "798ed012-9a10-402c-8085-5c14ca2992a5",
+"class_name": "defect_type_5",
+"bbox": [
+1095,
+938,
+1166,
+1015
+],
+"polygon": null,
+"mask": null,
+"z_index": 4,
+"attributes": {}
+},
+{
+"id": "a669063d-cafe-4fd2-ad55-6714795dd945",
+"class_name": "defect_type_1",
+"bbox": [
+970,
+348,
+988,
+365
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "d045eab4-ce7a-4c16-8474-aea36c39505b",
+"class_name": "defect_type_1",
+"bbox": [
+444,
+753,
+462,
+773
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "d1afbe9c-6627-4a32-94d2-ce1d9e6c2c3c",
+"class_name": "defect_type_1",
+"bbox": [
+522,
+412,
+548,
+430
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "fca669a9-ec7b-4c27-962d-01f3059c8754",
+"class_name": "defect_type_5",
+"bbox": [
+221,
+841,
+288,
+909
+],
+"polygon": null,
+"mask": null,
+"z_index": 5,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "79e6045c-3f53-4062-9f5f-cc62e93cd894",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-8-9-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2f592e39-62bb-4c65-9dc4-74361a863871",
+"class_name": "defect_type_8",
+"bbox": [
+405,
+438,
+487,
+550
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "728f8a40-2817-4441-ba96-dc700f298e58",
+"class_name": "defect_type_8",
+"bbox": [
+174,
+960,
+293,
+1039
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "b14bb924-c176-4a81-8bdd-46ea7f9c4755",
+"class_name": "defect_type_8",
+"bbox": [
+963,
+132,
+1070,
+213
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "7b8938cf-8fbe-4acb-92c3-8121cceb4801",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-8-2-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1430e613-1c81-49fb-b5db-2bce2b15edf8",
+"class_name": "defect_type_8",
+"bbox": [
+398,
+426,
+480,
+544
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "3ee11f14-f5b7-48a1-a9d9-95c9fd96f42c",
+"class_name": "defect_type_8",
+"bbox": [
+168,
+952,
+283,
+1035
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "5a5611d1-da50-451e-82d6-b14a0d2af6a1",
+"class_name": "defect_type_1",
+"bbox": [
+185,
+182,
+198,
+195
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "5d6c71c2-1b9a-4d9e-b6f4-33c4480b42d0",
+"class_name": "defect_type_8",
+"bbox": [
+952,
+126,
+1069,
+211
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "7ce6d094-d3b7-42dc-9c1d-4725651fe4b1",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-9-12-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "58246444-8335-423f-9659-253e680bdc51",
+"class_name": "defect_type_1",
+"bbox": [
+1155,
+1120,
+1188,
+1147
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "7e4923d1-fc20-4a94-a121-43bc400c1cf3",
+"class_name": "defect_type_9",
+"bbox": [
+1003,
+1009,
+1161,
+1172
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "87b1c84b-fbab-4d8b-a458-ee8d3a5d3407",
+"class_name": "defect_type_1",
+"bbox": [
+93,
+1156,
+107,
+1175
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "fe4bd958-7a8c-456e-998e-7affebf22054",
+"class_name": "defect_type_9",
+"bbox": [
+33,
+81,
+192,
+243
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "7f7c1d95-d730-4af6-aaaf-fde302d23324",
+"width": 1155,
+"height": 1155,
+"image_name": "pattern_1-1-5-5-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "26fa125f-e30a-4c30-afaa-cd3802e60bd6",
+"class_name": "defect_type_5",
+"bbox": [
+213,
+865,
+278,
+932
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "4f3365df-2fd6-4bac-9d5c-7cf6c2bcd6e4",
+"class_name": "defect_type_5",
+"bbox": [
+1079,
+971,
+1150,
+1037
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "b623ab6a-56de-4f5d-8820-e308e7ec4bdd",
+"class_name": "defect_type_5",
+"bbox": [
+506,
+238,
+569,
+302
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "7fecbfcc-8714-4a61-96e6-92d4cf813756",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-8-7-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1b9a5d78-cf73-471f-b0af-4785d5ed2722",
+"class_name": "defect_type_1",
+"bbox": [
+882,
+670,
+894,
+686
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "3a55b3e5-f67f-461d-a86e-14d07a92c3c5",
+"class_name": "defect_type_1",
+"bbox": [
+102,
+1151,
+157,
+1178
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "450123b1-1980-45a5-99c1-07020993563c",
+"class_name": "defect_type_8",
+"bbox": [
+379,
+421,
+468,
+538
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "5de2a6b1-797f-4be1-905f-f432386cdc3e",
+"class_name": "defect_type_8",
+"bbox": [
+154,
+943,
+269,
+1025
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "60dbd315-fbe2-4cc6-b65f-5227612e0173",
+"class_name": "defect_type_1",
+"bbox": [
+430,
+220,
+442,
+241
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "c28867b0-df2c-4823-baf5-8ee1de8e708f",
+"class_name": "defect_type_8",
+"bbox": [
+935,
+114,
+1057,
+203
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "d740e090-cfb6-492c-bf92-c8230cb026f5",
+"class_name": "defect_type_1",
+"bbox": [
+133,
+1161,
+153,
+1178
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "f7855e1d-a25c-4e41-b449-c3e4d7c853f1",
+"class_name": "defect_type_1",
+"bbox": [
+993,
+1124,
+1005,
+1137
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "80b0b309-dd84-44e0-966e-ca47ce4b37d8",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-7-10-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2bc4d0b0-68cc-478b-b128-f68df0d3633d",
+"class_name": "defect_type_1",
+"bbox": [
+130,
+36,
+168,
+98
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "7d56b7f8-dce6-487c-911e-2edfb61087a4",
+"class_name": "defect_type_7",
+"bbox": [
+698,
+1000,
+778,
+1081
+],
+"polygon": null,
+"mask": null,
+"z_index": 4,
+"attributes": {}
+},
+{
+"id": "9837aa76-2f11-4c52-93a4-9c8ee5204e62",
+"class_name": "defect_type_1",
+"bbox": [
+99,
+121,
+134,
+192
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "e515be6c-0bec-416f-bdcf-be88a56941bb",
+"class_name": "defect_type_1",
+"bbox": [
+74,
+194,
+104,
+259
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "f2ef22f3-c8d1-46b2-99bb-dcb20fa39aa0",
+"class_name": "defect_type_7",
+"bbox": [
+212,
+78,
+294,
+157
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "818ee7f8-57b8-4bca-b963-009b59f525cd",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-1-12-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "adf7e0a0-d328-4a20-84eb-6881ed6edbe9",
+"class_name": "defect_type_1",
+"bbox": [
+139,
+1058,
+162,
+1077
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "83a97a77-680e-48b2-a0d5-049108d0b856",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-1-39-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "dcc50fc7-e007-4de9-be0c-a3901b94bdc5",
+"class_name": "defect_type_1",
+"bbox": [
+1030,
+580,
+1039,
+589
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "e95ab912-7752-41ec-bb4f-79ed1915b0d3",
+"class_name": "defect_type_1",
+"bbox": [
+923,
+352,
+929,
+358
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "87bd45d2-faa5-47f3-9188-a0c05a5f549a",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-6-9-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "031d5e33-5592-4ab1-8f92-ab95c12b0f40",
+"class_name": "defect_type_1",
+"bbox": [
+399,
+164,
+423,
+221
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "26756018-5bca-411d-ac2a-2a4515c08e74",
+"class_name": "defect_type_6",
+"bbox": [
+1012,
+310,
+1078,
+427
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "61730704-3f2b-422f-a9d0-1196616965d0",
+"class_name": "defect_type_6",
+"bbox": [
+159,
+71,
+199,
+134
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "6c5117a6-0765-45af-ab67-106000c51a8c",
+"class_name": "defect_type_6",
+"bbox": [
+279,
+986,
+399,
+1058
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "737ef172-2df8-41a8-b7de-05fd4bc05400",
+"class_name": "defect_type_1",
+"bbox": [
+231,
+601,
+293,
+849
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "bf69a253-93ab-4e97-8cdb-823ce8c6db5b",
+"class_name": "defect_type_1",
+"bbox": [
+171,
+981,
+202,
+1083
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "d54d00e9-9474-49b6-aff5-7105ffd26ff0",
+"class_name": "defect_type_1",
+"bbox": [
+328,
+340,
+373,
+469
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "f0412545-c3cf-4e0f-a5db-2f4abea9e350",
+"class_name": "defect_type_1",
+"bbox": [
+369,
+264,
+402,
+319
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "8c97a3b5-eaf6-4e67-836e-94e9fda8f59c",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-7-5-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "04500963-03c2-4c10-aa76-00a5fac297d1",
+"class_name": "defect_type_7",
+"bbox": [
+725,
+1040,
+795,
+1106
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "76d7d4ac-68e9-4224-97cc-60cafca64c95",
+"class_name": "defect_type_7",
+"bbox": [
+244,
+114,
+309,
+180
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "8ce28796-8f3e-4674-be63-de4750b7351b",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-8-4.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "6cabd689-9b0c-486a-876f-cd305dd7efac",
+"class_name": "defect_type_8",
+"bbox": [
+958,
+102,
+1078,
+194
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "be04bfaf-a23d-4902-96a1-a755fb631bd8",
+"class_name": "defect_type_8",
+"bbox": [
+182,
+930,
+296,
+1015
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "eb9229d9-fd53-49b9-8450-a897c7a14f7a",
+"class_name": "defect_type_8",
+"bbox": [
+409,
+408,
+491,
+524
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "8d0e0ef8-c7d5-49e4-8917-160b6d28fe2d",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-3-1-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2a602e66-112c-42d7-816c-f172bd048b56",
+"class_name": "defect_type_3",
+"bbox": [
+284,
+252,
+444,
+931
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "8f8b0d71-b697-44fe-b4ff-1b7bff1715ea",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-6-7-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "7e520462-116b-48fe-8dab-bc6dbf118c13",
+"class_name": "defect_type_6",
+"bbox": [
+1007,
+316,
+1074,
+439
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "82cf4ab2-a06b-45da-b824-7dd5fba048bb",
+"class_name": "defect_type_6",
+"bbox": [
+272,
+995,
+399,
+1070
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "9a01eee1-b4a5-4eab-bc5a-523d31d02064",
+"class_name": "defect_type_6",
+"bbox": [
+156,
+80,
+196,
+142
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "9552aaec-fe96-42e9-9cf7-3deb5e66f94a",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-1-38-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "27f35772-72fb-462c-93b3-97725009de95",
+"class_name": "defect_type_1",
+"bbox": [
+1098,
+900,
+1116,
+924
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "9638761b-ea4c-4756-a8ee-94205e94381f",
+"width": 1179,
+"height": 1179,
+"image_name": "pattern_1-1-6-6-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "23093389-c564-4f5d-8c03-294b675742ee",
+"class_name": "defect_type_6",
+"bbox": [
+274,
+955,
+395,
+1023
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "9a6b6155-3fcf-47e9-8f60-41603a4f4ed8",
+"class_name": "defect_type_6",
+"bbox": [
+1006,
+276,
+1076,
+395
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "ee59c5e6-6a15-4029-a9f2-bef5b05a7bce",
+"class_name": "defect_type_6",
+"bbox": [
+145,
+35,
+199,
+102
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "992fec14-3122-4541-b341-f111095e0372",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-1-32-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "10aacfb5-e797-4a99-8bf1-8581c8e7d49b",
+"class_name": "defect_type_1",
+"bbox": [
+704,
+635,
+716,
+652
+],
+"polygon": null,
+"mask": null,
+"z_index": 4,
+"attributes": {}
+},
+{
+"id": "4716508a-a210-4d01-bf64-35939f3fd147",
+"class_name": "defect_type_1",
+"bbox": [
+711,
+224,
+785,
+594
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "d51731cc-05c7-4787-b664-2d04c44ad967",
+"class_name": "defect_type_1",
+"bbox": [
+703,
+602,
+719,
+617
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "f2c8a759-ea40-401d-b5f9-c5f49a343349",
+"class_name": "defect_type_1",
+"bbox": [
+763,
+135,
+799,
+226
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "99b61cea-cd4a-41ec-b5f8-5ec6c27f84ce",
+"width": 1167,
+"height": 1167,
+"image_name": "pattern_1-1-5-11-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "64fe0638-4003-40c9-a35c-d6dcb29d6221",
+"class_name": "defect_type_1",
+"bbox": [
+337,
+1018,
+357,
+1039
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "d622eb93-a71f-4ca1-8d12-404fb73ee9ae",
+"class_name": "defect_type_5",
+"bbox": [
+1081,
+974,
+1161,
+1046
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "d9826877-1118-43e7-8aea-3c227c2ec0cd",
+"class_name": "defect_type_5",
+"bbox": [
+515,
+242,
+586,
+321
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "f0240e40-eed9-4ae1-a626-9fc48458a05d",
+"class_name": "defect_type_5",
+"bbox": [
+221,
+870,
+287,
+939
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "9a230418-41f3-4f25-88ea-319805fa7033",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-3-6-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "56b82c6d-5fa0-4425-87c7-960f17835f4c",
+"class_name": "defect_type_3",
+"bbox": [
+284,
+249,
+447,
+932
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "9a980706-db33-451a-8b8e-2e0c1733414e",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-7-6-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "43e85d45-38bc-4082-969c-04eb879b8d06",
+"class_name": "defect_type_1",
+"bbox": [
+995,
+367,
+1200,
+447
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "6e24903f-f318-4fe2-82c4-d690c5a58068",
+"class_name": "defect_type_7",
+"bbox": [
+245,
+117,
+306,
+177
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "86dd03f6-3fb6-45d2-bf5b-cf52b63db96b",
+"class_name": "defect_type_7",
+"bbox": [
+726,
+1040,
+793,
+1102
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "a3e8762f-a8fc-4c00-9eab-c0bf72d6271a",
+"class_name": "defect_type_1",
+"bbox": [
+367,
+817,
+377,
+828
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "ecee71eb-ecd9-4f3f-ac66-820778e8ce2e",
+"class_name": "defect_type_1",
+"bbox": [
+1066,
+0,
+1200,
+187
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "9c449cfe-8728-459e-acd4-282660c65725",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-9-10.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1b6f0073-271c-45ad-b7aa-3d18ffe2711e",
+"class_name": "defect_type_9",
+"bbox": [
+998,
+994,
+1161,
+1154
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "34dd7a9a-f5b2-44d9-a6b3-5525b6def2e8",
+"class_name": "defect_type_9",
+"bbox": [
+27,
+63,
+198,
+225
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "9cbfbfaa-9fec-4b6d-ba42-c41ddaa212e8",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-7-12.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "ad27e4eb-2f01-49b8-90e6-3232ba77b971",
+"class_name": "defect_type_7",
+"bbox": [
+232,
+99,
+323,
+184
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "f4dc29c4-4aa9-4e79-a0eb-f7ffb9b06fae",
+"class_name": "defect_type_7",
+"bbox": [
+717,
+1028,
+807,
+1103
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "9e3b8715-2543-4541-b204-86688ca347c5",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-9-11-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "9910826d-9c85-4672-a347-8a3218b67124",
+"class_name": "defect_type_9",
+"bbox": [
+1004,
+1013,
+1163,
+1177
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "b41f28f3-6ae3-422f-a196-e9faefa17bcc",
+"class_name": "defect_type_9",
+"bbox": [
+37,
+82,
+195,
+247
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "a022e0f8-41d5-45aa-a43b-ba25e3c0db9b",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-9-3-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "03e42edd-b929-48b3-9df1-f40a50653027",
+"class_name": "defect_type_9",
+"bbox": [
+39,
+53,
+197,
+213
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "504f3b82-9178-4c77-b718-a18b07477d20",
+"class_name": "defect_type_1",
+"bbox": [
+0,
+327,
+34,
+398
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "8edfff42-5fa7-45c2-b712-829f78f1e6eb",
+"class_name": "defect_type_9",
+"bbox": [
+1010,
+981,
+1166,
+1139
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "a0318c3b-212b-43fd-97fe-c7c82036e51d",
+"width": 1195,
+"height": 1194,
+"image_name": "pattern_1-1-2-1-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "51c10ddb-93ed-4249-8569-5c384234d087",
+"class_name": "defect_type_2",
+"bbox": [
+185,
+912,
+260,
+976
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "c1446838-9d67-4ac4-a580-56931939142d",
+"class_name": "defect_type_2",
+"bbox": [
+190,
+398,
+256,
+442
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "ed7fb7c5-86ca-47e3-9dac-3f9531191934",
+"class_name": "defect_type_2",
+"bbox": [
+966,
+183,
+1036,
+253
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "a1b8b410-9804-4ef7-85e4-1d05d8b69cc6",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-3-4-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "f4598823-eafa-4e1a-bba3-bd4f4adc6581",
+"class_name": "defect_type_3",
+"bbox": [
+284,
+227,
+447,
+913
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "f7d3443f-d7fc-431c-81ee-e7f2c0ba7b65",
+"class_name": "defect_type_1",
+"bbox": [
+283,
+613,
+299,
+642
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "a38e57d9-aaeb-46da-88b0-7a2b5e679a36",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-7-3.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1b7b8336-019a-40ea-b066-e0b29fb62c60",
+"class_name": "defect_type_7",
+"bbox": [
+244,
+104,
+310,
+167
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "3a8c913c-5790-4e95-ac75-19be03c5163f",
+"class_name": "defect_type_7",
+"bbox": [
+728,
+1029,
+797,
+1096
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "a99b59c0-5e65-4240-a912-7aefaa615ad0",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-7-4-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2721141c-7f1a-47d1-bb31-15001e27a1a0",
+"class_name": "defect_type_7",
+"bbox": [
+245,
+131,
+311,
+194
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "2835846c-3d59-43a3-a89f-d8c7a511dff0",
+"class_name": "defect_type_1",
+"bbox": [
+13,
+421,
+21,
+436
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "450822b5-1203-4703-97fe-d3663f232585",
+"class_name": "defect_type_1",
+"bbox": [
+695,
+535,
+720,
+562
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "7fec134e-642a-4b62-bbf3-685008db8d6b",
+"class_name": "defect_type_1",
+"bbox": [
+11,
+420,
+22,
+449
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "8f18631f-deeb-49de-b21c-15aca63d1e6f",
+"class_name": "defect_type_1",
+"bbox": [
+0,
+446,
+79,
+481
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "8f5c154c-fb78-44b7-94d2-ce02f2ee46ac",
+"class_name": "defect_type_7",
+"bbox": [
+726,
+1053,
+795,
+1121
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "f6d39b7a-9722-4546-8f4c-ceb2275278c6",
+"class_name": "defect_type_1",
+"bbox": [
+164,
+159,
+173,
+167
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "aa988e8f-94c3-4ab7-b447-5b6a1baa607b",
+"width": 1183,
+"height": 1182,
+"image_name": "pattern_1-1-6-3-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "23e9c567-0eaf-4e87-840e-f306e1f4a36c",
+"class_name": "defect_type_1",
+"bbox": [
+1094,
+1106,
+1146,
+1159
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "3a289ea1-bef5-48f9-ae50-94693e23aac4",
+"class_name": "defect_type_6",
+"bbox": [
+126,
+66,
+175,
+132
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "a76dd13a-fdf3-4bb0-8b92-5394ff1b00ac",
+"class_name": "defect_type_6",
+"bbox": [
+251,
+992,
+371,
+1059
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "ab0ee6a4-5502-407c-82f9-0c46423df77b",
+"class_name": "defect_type_6",
+"bbox": [
+984,
+313,
+1056,
+424
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "aab944ea-0570-4d7e-bf7e-f09ebae59f45",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-9-7-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2540b554-a6e5-4420-9496-39c7507c2d04",
+"class_name": "defect_type_9",
+"bbox": [
+43,
+77,
+202,
+239
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "42818962-0525-4637-93c4-7cee0075f7b2",
+"class_name": "defect_type_9",
+"bbox": [
+1014,
+1005,
+1171,
+1166
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "ab1989a0-61c0-4e11-a3d5-ce459bdf41dd",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-2-9-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2d3dc719-20c7-4d0e-a5fa-12afda255b0e",
+"class_name": "defect_type_2",
+"bbox": [
+163,
+933,
+237,
+994
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "79aa2027-5827-49b4-b103-4dba19d31690",
+"class_name": "defect_type_2",
+"bbox": [
+949,
+203,
+1012,
+270
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "b6e2c977-113e-458f-b6e5-f4dfb41538b6",
+"class_name": "defect_type_2",
+"bbox": [
+171,
+420,
+234,
+461
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "ed73d275-a1d7-4ceb-86f8-403c936395c8",
+"class_name": "defect_type_1",
+"bbox": [
+586,
+335,
+599,
+356
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "ab530a2e-6702-4684-a12e-f7e9c5ed16ab",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-4-8-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "c2ce9806-ab31-4b97-8117-387deaa187c1",
+"class_name": "defect_type_4",
+"bbox": [
+582,
+563,
+751,
+1020
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "af59c207-7c61-4f37-97af-ded2ac6a1c75",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-8-3-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "0acb0d73-7b5c-4463-a5bc-683dc7d5e477",
+"class_name": "defect_type_1",
+"bbox": [
+547,
+68,
+694,
+511
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "1c1ad164-508f-44a2-b7b1-4ac87af67445",
+"class_name": "defect_type_8",
+"bbox": [
+971,
+140,
+1091,
+228
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "3bd881ee-457a-48e7-8499-e303857a910e",
+"class_name": "defect_type_8",
+"bbox": [
+195,
+973,
+311,
+1058
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "578ee17d-6b08-4983-a3a8-c36b2ae664cd",
+"class_name": "defect_type_8",
+"bbox": [
+420,
+455,
+506,
+571
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "b80d94a6-4502-4e16-bdd0-22b7f63614eb",
+"class_name": "defect_type_1",
+"bbox": [
+1090,
+344,
+1199,
+432
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "b1cd7279-aad0-4f88-b196-610df9d66342",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-1-34-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "d6df67db-85ce-4160-b089-90cb79b76f5e",
+"class_name": "defect_type_1",
+"bbox": [
+646,
+67,
+662,
+87
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "b3404b97-4f79-4dbe-b1e1-9cb5b4188cba",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-1-33-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1304c94b-b49a-4d5e-8b4a-9cd3968b20e0",
+"class_name": "defect_type_1",
+"bbox": [
+983,
+240,
+997,
+263
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "6a332657-0cfa-48ae-876a-f1f590e860d9",
+"class_name": "defect_type_1",
+"bbox": [
+740,
+301,
+752,
+318
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "b3606e0c-2778-4228-9f8e-fb9a1eda8cbc",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-3-3-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "aff17b35-f97f-45c0-8544-ae079985be6c",
+"class_name": "defect_type_1",
+"bbox": [
+277,
+915,
+296,
+947
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "bd30e32d-0ac2-40ae-a671-90378425ee85",
+"class_name": "defect_type_3",
+"bbox": [
+281,
+244,
+446,
+927
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "e4bf51be-0071-4237-87cb-3f41e76ece86",
+"class_name": "defect_type_1",
+"bbox": [
+315,
+672,
+391,
+862
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "fea0121f-e7c4-4775-8006-d146e72b0843",
+"class_name": "defect_type_1",
+"bbox": [
+252,
+971,
+283,
+1028
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "b4fc22c7-5e1e-4b11-ba2c-543895fc1df6",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-8-8-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "6e66b0ef-3ac6-475b-b960-9b96bf3fc04a",
+"class_name": "defect_type_8",
+"bbox": [
+967,
+155,
+1078,
+240
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "aa528692-96ff-49cb-9321-e7fb9d11fb6f",
+"class_name": "defect_type_8",
+"bbox": [
+184,
+978,
+304,
+1065
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "ac63761e-cba3-4e37-b427-e8719680ca00",
+"class_name": "defect_type_1",
+"bbox": [
+687,
+846,
+705,
+864
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "c113aa74-17a2-4ff9-8b41-0c522c2c4a64",
+"class_name": "defect_type_8",
+"bbox": [
+416,
+464,
+493,
+577
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "b6437fbd-8098-492e-bd53-148665a40fa7",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-9-8-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "0eb1c5ee-4174-4660-9089-da91ac78a530",
+"class_name": "defect_type_9",
+"bbox": [
+1006,
+960,
+1170,
+1123
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "784ce1e1-8e39-4210-b5a7-701bd79e3f0e",
+"class_name": "defect_type_1",
+"bbox": [
+29,
+530,
+48,
+554
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "8db29914-5efd-4668-9737-0107ad4c9fab",
+"class_name": "defect_type_9",
+"bbox": [
+34,
+26,
+203,
+195
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "b96f4dac-f95e-4782-af64-16d0ea9aa2a7",
+"width": 1197,
+"height": 1197,
+"image_name": "pattern_1-1-2-8-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "37cb7a51-a4ef-4eda-91f5-7ea9c1f898a3",
+"class_name": "defect_type_2",
+"bbox": [
+184,
+430,
+250,
+475
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "4513bf67-fe9e-40ac-99ea-8a01b0aeea4b",
+"class_name": "defect_type_2",
+"bbox": [
+180,
+942,
+251,
+1013
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "ba5b911d-f33d-4d47-8df6-7315098fdebd",
+"class_name": "defect_type_2",
+"bbox": [
+959,
+217,
+1028,
+286
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "b98626cd-ae90-4f39-b79d-ead993c91b23",
+"width": 1176,
+"height": 1177,
+"image_name": "pattern_1-1-7-11-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "62ea7b3f-64a4-48ec-b9db-1c6abf8942c6",
+"class_name": "defect_type_7",
+"bbox": [
+703,
+993,
+784,
+1072
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "d270e498-bccf-4c06-97a9-59f4bda609de",
+"class_name": "defect_type_7",
+"bbox": [
+212,
+66,
+303,
+150
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "b9a57215-f371-4e05-af20-2db3b4dd3b1d",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-5-9-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1976edf6-9e10-42ae-b0ea-4b0190232b7c",
+"class_name": "defect_type_5",
+"bbox": [
+549,
+234,
+613,
+309
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "46884926-cf0c-4764-a264-57179e318091",
+"class_name": "defect_type_5",
+"bbox": [
+255,
+863,
+320,
+934
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "90708fb7-f0ad-47a5-b934-962aedef0f56",
+"class_name": "defect_type_5",
+"bbox": [
+1120,
+967,
+1194,
+1040
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "c14795cc-5add-45fd-b768-eb80422c4ee0",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-6-8-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2dc89170-dda1-406e-acf3-423e76490823",
+"class_name": "defect_type_6",
+"bbox": [
+1021,
+300,
+1087,
+422
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "c582f4e3-ec14-4d01-a825-5946c4ee4d8d",
+"class_name": "defect_type_6",
+"bbox": [
+290,
+982,
+409,
+1048
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "d8feb037-699a-4845-9665-4be756592117",
+"class_name": "defect_type_6",
+"bbox": [
+162,
+56,
+215,
+130
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "c17c1b2c-3349-4272-974e-191a30690949",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-3-2-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "69905218-04f5-4484-bcbe-9fe1a3b15264",
+"class_name": "defect_type_3",
+"bbox": [
+280,
+242,
+446,
+924
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "cb7ae198-c296-483c-bc16-9c3b5064daa3",
+"class_name": "defect_type_1",
+"bbox": [
+405,
+293,
+417,
+306
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "c195d261-52bf-4af5-b360-bd4fdbb2a2d7",
+"width": 1173,
+"height": 1117,
+"image_name": "pattern_1-1-6-1-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "20037f2d-2bbc-4104-8512-376262543d76",
+"class_name": "defect_type_6",
+"bbox": [
+997,
+256,
+1069,
+371
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "2afa5a1c-31c8-439b-bc75-3d98793fc919",
+"class_name": "defect_type_6",
+"bbox": [
+139,
+11,
+186,
+75
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "89d4cfe7-796d-4745-9fbd-abc624a2442e",
+"class_name": "defect_type_6",
+"bbox": [
+261,
+937,
+385,
+1001
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "c24bb734-54b3-4c56-b57a-3196bf385f8b",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-1-27-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "76a87a71-7966-424c-96bb-0990d9f6a37f",
+"class_name": "defect_type_1",
+"bbox": [
+978,
+712,
+1009,
+749
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "c32e4278-bd61-4efb-b339-58be0181d5bf",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-6-12.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "6a73dadd-bab0-48ba-be57-4764fe087015",
+"class_name": "defect_type_6",
+"bbox": [
+152,
+53,
+193,
+121
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "9828732d-19fb-4962-9fee-88fce8ee0fd8",
+"class_name": "defect_type_6",
+"bbox": [
+1006,
+293,
+1077,
+416
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "d352dad8-3d93-49b6-a4c2-489b38bec745",
+"class_name": "defect_type_6",
+"bbox": [
+271,
+978,
+398,
+1042
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "c51077ec-345c-4ddb-b332-6afb8e1cb22b",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-4-1-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "8516d19b-8999-48ba-92ac-4897d4e4ed80",
+"class_name": "defect_type_4",
+"bbox": [
+567,
+560,
+734,
+1014
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "a591076f-c79a-4db2-bef3-7cab9127ec9b",
+"class_name": "defect_type_1",
+"bbox": [
+1043,
+624,
+1060,
+643
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "ca031e23-1fa2-4d2e-bb09-a47103648677",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-1-29-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "bc144005-08d9-453d-b3dd-5b5ea1bc81a0",
+"class_name": "defect_type_1",
+"bbox": [
+1111,
+942,
+1172,
+1195
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "cbc929c4-01ca-4290-86a5-c17f196a247e",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-9-1-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "3e7ce821-1162-41b3-bf72-358a422eca7b",
+"class_name": "defect_type_9",
+"bbox": [
+33,
+57,
+192,
+220
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "8ce98511-06f5-4207-a870-68cc9e00ad22",
+"class_name": "defect_type_9",
+"bbox": [
+997,
+987,
+1160,
+1146
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "d211f407-d986-4307-aa18-fc533510fdf1",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-6-11-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "170943d9-4bc1-498e-9a9b-cbd4d2aa722f",
+"class_name": "defect_type_6",
+"bbox": [
+143,
+43,
+196,
+110
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "c6c88bd9-e76f-416c-ac15-4abe8a0ad5df",
+"class_name": "defect_type_6",
+"bbox": [
+275,
+967,
+393,
+1034
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "f9b9f9db-169f-42e4-9f7e-b5279cf62ca8",
+"class_name": "defect_type_6",
+"bbox": [
+1010,
+281,
+1072,
+407
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "d42651c5-93fa-4807-9cd2-2be9d679d184",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-3-12-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "f47be674-fc59-44cc-8eeb-33ab83c4e9df",
+"class_name": "defect_type_3",
+"bbox": [
+294,
+233,
+456,
+914
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "d992bcab-c281-404a-98e5-ce02617de313",
+"width": 1197,
+"height": 1197,
+"image_name": "pattern_1-1-6-5-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "28cf950b-6c0d-4c24-9839-042181ed3759",
+"class_name": "defect_type_6",
+"bbox": [
+158,
+61,
+201,
+123
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "66d61b9c-1a43-4c79-b755-aa004a56c24a",
+"class_name": "defect_type_6",
+"bbox": [
+1015,
+297,
+1080,
+417
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "b7643409-bcf6-493d-9dd7-8407140ee414",
+"class_name": "defect_type_6",
+"bbox": [
+277,
+977,
+405,
+1045
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "daaf9235-7117-40cf-b82c-446f4c1aea47",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-7-1-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "4bee8d17-586d-4b61-886c-86eaf8802b71",
+"class_name": "defect_type_1",
+"bbox": [
+806,
+1192,
+816,
+1199
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "bfad2ce1-94e8-4202-8cf7-3f4ddb134725",
+"class_name": "defect_type_7",
+"bbox": [
+243,
+113,
+313,
+179
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "cc398126-a103-44c3-8497-c54207c9f77c",
+"class_name": "defect_type_7",
+"bbox": [
+728,
+1036,
+798,
+1101
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "de041ece-fe74-44a5-bed8-a1ab87307dd3",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-6-10-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "05c69e7e-e3f6-43f2-b83b-e662f7dccd3a",
+"class_name": "defect_type_6",
+"bbox": [
+1009,
+310,
+1086,
+427
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "3bbc95af-785f-40ab-95c8-40715759bd72",
+"class_name": "defect_type_1",
+"bbox": [
+1058,
+936,
+1073,
+962
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "75eef48f-054d-44fa-92cc-f05c2b823da4",
+"class_name": "defect_type_6",
+"bbox": [
+152,
+62,
+203,
+141
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "7ec4d716-58c6-439b-ae1a-44862c3971ea",
+"class_name": "defect_type_1",
+"bbox": [
+1025,
+997,
+1066,
+1068
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "e2dcf9ce-5042-4339-b087-8fada0624c62",
+"class_name": "defect_type_1",
+"bbox": [
+994,
+1133,
+1010,
+1156
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "e97fd72b-fcfc-4512-9e07-8bfe7e3d1e35",
+"class_name": "defect_type_6",
+"bbox": [
+280,
+994,
+401,
+1057
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "dec76fda-13d9-4351-a121-2e2d26d645bd",
+"width": 1160,
+"height": 1115,
+"image_name": "pattern_1-1-4-11.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "a7e77c18-b66e-4dcf-ad4e-edd400a71bad",
+"class_name": "defect_type_4",
+"bbox": [
+542,
+501,
+719,
+961
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "df044b61-8e8a-4f6f-b363-478ca8fe9732",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-5-4.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "340cfdb0-919c-42a4-8106-1b80def6ad1e",
+"class_name": "defect_type_5",
+"bbox": [
+530,
+282,
+594,
+354
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "4689d935-4e35-4d96-903b-c190aaad74be",
+"class_name": "defect_type_5",
+"bbox": [
+1089,
+1012,
+1174,
+1085
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "ce5ee951-44ef-4d0c-a7f0-66deb37f819d",
+"class_name": "defect_type_5",
+"bbox": [
+234,
+910,
+299,
+978
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "df35b5bf-3a1a-4bb8-986f-0312f9a59e42",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-8-1-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "3b3af79d-c6b8-4628-9500-5fe332fbd814",
+"class_name": "defect_type_8",
+"bbox": [
+403,
+423,
+485,
+538
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "a0d6135a-bd00-4be4-a3e4-a0e7810bf0b1",
+"class_name": "defect_type_1",
+"bbox": [
+46,
+1189,
+59,
+1199
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "a6597764-3d43-472c-8b3e-8e6c547af9ec",
+"class_name": "defect_type_1",
+"bbox": [
+1113,
+135,
+1122,
+146
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "cb0b46a5-4395-42c0-b678-4567a11f9abe",
+"class_name": "defect_type_8",
+"bbox": [
+952,
+122,
+1075,
+204
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "df5abcea-0924-4fcb-889c-c2482766639e",
+"class_name": "defect_type_8",
+"bbox": [
+173,
+946,
+290,
+1028
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "e3cb2222-d761-4f29-8240-186924251fbb",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-1-35-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "0bce536d-ce21-4bf8-946e-a89419057285",
+"class_name": "defect_type_1",
+"bbox": [
+876,
+994,
+901,
+1018
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "254c4865-915c-4ca9-909e-e68fa9b41336",
+"class_name": "defect_type_1",
+"bbox": [
+1069,
+1064,
+1082,
+1088
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "97eca97d-23cf-4013-a047-71549adc0804",
+"class_name": "defect_type_1",
+"bbox": [
+728,
+865,
+760,
+901
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "e8035ce7-cb39-41a3-95ac-512bb2b7af21",
+"class_name": "defect_type_1",
+"bbox": [
+357,
+702,
+373,
+723
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "eb749f49-929d-4cd4-99e0-00c365ca9c58",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-1-31-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "32a8e2aa-3482-40bb-8cd2-2a62a6b8ae62",
+"class_name": "defect_type_1",
+"bbox": [
+535,
+1129,
+540,
+1134
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "629b8fbc-eb7d-40f6-8f8b-7a7cbde987af",
+"class_name": "defect_type_1",
+"bbox": [
+680,
+1112,
+712,
+1143
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "9533b04d-11e8-4522-beb5-43d38c1b6c18",
+"class_name": "defect_type_1",
+"bbox": [
+826,
+632,
+889,
+955
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "9d1a0b5f-7a65-4c6a-ad39-c9613d804c8a",
+"class_name": "defect_type_1",
+"bbox": [
+813,
+956,
+858,
+1065
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "d80b8229-9a4b-49bf-bde4-b046d7d8c9a6",
+"class_name": "defect_type_1",
+"bbox": [
+908,
+134,
+969,
+494
+],
+"polygon": null,
+"mask": null,
+"z_index": 4,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "ebb9130a-f1c2-4a18-87a1-51056a3f1dcc",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-2-10-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "1ecc4060-68f5-4d25-82ae-1be09184e527",
+"class_name": "defect_type_2",
+"bbox": [
+178,
+453,
+240,
+502
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "272dcdd2-7ea3-4d80-b2bd-19cff54d707e",
+"class_name": "defect_type_2",
+"bbox": [
+173,
+966,
+241,
+1031
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "a2c78282-8388-4158-a14b-d5b2b299b014",
+"class_name": "defect_type_1",
+"bbox": [
+73,
+95,
+90,
+109
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "fdd6b68e-c017-44dc-a4ea-6c0a62f39b02",
+"class_name": "defect_type_2",
+"bbox": [
+954,
+242,
+1022,
+306
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "ec6ff9a8-7f78-4cd6-8d30-75413dcc07e7",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-8-6-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "41968f73-71e2-4629-968d-36a32dc8e4d3",
+"class_name": "defect_type_8",
+"bbox": [
+956,
+148,
+1075,
+230
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "d900ab0d-cfc8-4236-9553-dfbe41affdfa",
+"class_name": "defect_type_8",
+"bbox": [
+177,
+969,
+294,
+1055
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "e671e03a-6f73-4394-b794-09574ecafa5b",
+"class_name": "defect_type_8",
+"bbox": [
+405,
+452,
+490,
+566
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "f24096d6-0c69-4a0f-b36a-7d7020cdafaf",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-4-7-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "211968ea-2226-437e-be37-92417c557cc6",
+"class_name": "defect_type_4",
+"bbox": [
+585,
+579,
+752,
+1036
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "9415c9ff-3814-4187-8744-935598ba74fd",
+"class_name": "defect_type_1",
+"bbox": [
+414,
+508,
+421,
+516
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "f611de83-3c4f-41dd-adee-f6bd6857b4bb",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-8-11.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "2a6a62f7-ab8c-45e9-af6c-81e16494962e",
+"class_name": "defect_type_8",
+"bbox": [
+390,
+447,
+474,
+560
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "5a55447c-ea0a-4a44-9010-1cf7d23b4fd4",
+"class_name": "defect_type_8",
+"bbox": [
+945,
+143,
+1057,
+226
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "a289e6d7-9abf-4f35-8539-5437ec890c4c",
+"class_name": "defect_type_8",
+"bbox": [
+161,
+968,
+278,
+1048
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "f650a36d-75b4-4316-87f8-3e425f804d0d",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-8-10-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "452ee4a5-94e5-4a54-bb06-dac67f4ab986",
+"class_name": "defect_type_8",
+"bbox": [
+411,
+455,
+496,
+571
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "961ea22e-d95b-4783-a7e7-74f6faf6dbb9",
+"class_name": "defect_type_8",
+"bbox": [
+181,
+973,
+297,
+1058
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "ab0c1eb0-165f-432a-9bc1-2074535fc5a7",
+"class_name": "defect_type_8",
+"bbox": [
+958,
+155,
+1077,
+229
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "f667c973-f031-41c7-bbe6-ecedc82f8cad",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-3-9-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "390c3b7f-9e5f-4324-96fe-8c2c01a71ece",
+"class_name": "defect_type_1",
+"bbox": [
+930,
+0,
+1023,
+268
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "5fa4b3bb-9de4-4d0f-a25d-9f36e04eeeb3",
+"class_name": "defect_type_3",
+"bbox": [
+289,
+273,
+456,
+958
+],
+"polygon": null,
+"mask": null,
+"z_index": 4,
+"attributes": {}
+},
+{
+"id": "658221de-632b-4977-b60e-c55d54c04dbb",
+"class_name": "defect_type_1",
+"bbox": [
+821,
+267,
+1015,
+350
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "6bad43bf-8f2e-485b-923d-ddfbb5704074",
+"class_name": "defect_type_1",
+"bbox": [
+1015,
+250,
+1117,
+321
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "f92da0f1-19de-41e5-8579-5a0508f87b98",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-5-6-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "041bb498-65d0-4201-8130-b5d55fb26006",
+"class_name": "defect_type_5",
+"bbox": [
+232,
+902,
+298,
+970
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+},
+{
+"id": "59c54515-0534-4fbd-956c-e1a19aeb724f",
+"class_name": "defect_type_5",
+"bbox": [
+1097,
+1003,
+1176,
+1075
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "97941480-cd9b-49af-85e2-356d257b2ae3",
+"class_name": "defect_type_5",
+"bbox": [
+530,
+276,
+593,
+338
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "f94e30be-737b-419f-9fef-a6c9dd253c94",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-7-7-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "16320163-5195-48a5-b1e8-f6637e0ff23e",
+"class_name": "defect_type_7",
+"bbox": [
+706,
+1015,
+772,
+1083
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "580b31ea-4814-4748-b197-0b4b4343ead8",
+"class_name": "defect_type_1",
+"bbox": [
+599,
+715,
+608,
+723
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "e6eeda3c-32ae-47ef-90ab-ead7961b8ece",
+"class_name": "defect_type_7",
+"bbox": [
+223,
+92,
+289,
+156
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "fbb3a40a-24bb-43e3-88ef-7245ca690e30",
+"width": 1200,
+"height": 1199,
+"image_name": "pattern_1-1-7-2-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "93538e87-5e9c-422a-acf6-ab6050f680c1",
+"class_name": "defect_type_7",
+"bbox": [
+730,
+1027,
+798,
+1093
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "f9d17fdf-525f-4e5c-be6f-0c519e518a53",
+"class_name": "defect_type_7",
+"bbox": [
+246,
+101,
+310,
+169
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "feb8fa86-4e75-44a4-af8d-2886533581a5",
+"width": 1180,
+"height": 1180,
+"image_name": "pattern_1-1-5-10-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "695237bc-2c21-4c3d-9ce7-0b6253b53a9f",
+"class_name": "defect_type_5",
+"bbox": [
+232,
+886,
+299,
+956
+],
+"polygon": null,
+"mask": null,
+"z_index": 3,
+"attributes": {}
+},
+{
+"id": "a1ca3eff-4a4a-4968-99ec-4f9727aaa1f5",
+"class_name": "defect_type_5",
+"bbox": [
+1095,
+986,
+1171,
+1066
+],
+"polygon": null,
+"mask": null,
+"z_index": 4,
+"attributes": {}
+},
+{
+"id": "e96f4e24-03c0-4c1c-a6d4-55200edb9ce5",
+"class_name": "defect_type_5",
+"bbox": [
+528,
+253,
+594,
+331
+],
+"polygon": null,
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "fca9717d-be82-43b2-b508-5feddc0f6162",
+"class_name": "defect_type_1",
+"bbox": [
+4,
+373,
+190,
+507
+],
+"polygon": null,
+"mask": null,
+"z_index": 0,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "febd574e-beae-438c-9f28-a8388408bd0c",
+"width": 1150,
+"height": 1150,
+"image_name": "pattern_1-1-4-9-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "f23149c7-b4e5-43d8-97e5-05feda9e9eca",
+"class_name": "defect_type_4",
+"bbox": [
+536,
+506,
+699,
+961
+],
+"polygon": null,
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}, {
+"image_id": "fef86bd3-9858-49f4-93ca-cda595a915ea",
+"width": 1200,
+"height": 1200,
+"image_name": "pattern_1-1-2-4-D.jpg",
+"image_mode": "YCbCr",
+"dataset_name": "pattern_type_1",
+"image_status": "DONE",
+"labels": [
+{
+"id": "0726213a-274c-4037-85d1-6b86ec0aec8e",
+"class_name": "defect_type_1",
+"bbox": [
+501,
+724,
+585,
+1016
+],
+"polygon": null,
+"mask": null,
+"z_index": 10,
+"attributes": {}
+},
+{
+"id": "3f6a0520-1295-463b-9886-4e825d5e211b",
+"class_name": "defect_type_1",
+"bbox": [
+751,
+136,
+775,
+180
+],
+"polygon": null,
+"mask": null,
+"z_index": 8,
+"attributes": {}
+},
+{
+"id": "54081a16-5440-4af5-8ca6-bee305e06c44",
+"class_name": "defect_type_1",
+"bbox": [
+601,
+397,
+685,
+690
+],
+"polygon": null,
+"mask": null,
+"z_index": 9,
+"attributes": {}
+},
+{
+"id": "54a35a68-39f4-47f9-8f4b-29398a0d50d8",
+"class_name": "defect_type_2",
+"bbox": [
+181,
+906,
+250,
+975
+],
+"polygon": null,
+"mask": null,
+"z_index": 6,
+"attributes": {}
+},
+{
+"id": "7704abc5-6cd3-470d-96e9-ee1e7446fa08",
+"class_name": "defect_type_2",
+"bbox": [
+963,
+181,
+1028,
+252
+],
+"polygon": null,
+"mask": null,
+"z_index": 4,
+"attributes": {}
+},
+{
+"id": "ac980d70-46bd-4056-9055-1ac0fff9cdcb",
+"class_name": "defect_type_2",
+"bbox": [
+187,
+398,
+250,
+446
+],
+"polygon": null,
+"mask": null,
+"z_index": 5,
+"attributes": {}
+},
+{
+"id": "e7991242-1f72-4a12-9aca-0de0f8593129",
+"class_name": "defect_type_1",
+"bbox": [
+701,
+319,
+717,
+339
+],
+"polygon": null,
+"mask": null,
+"z_index": 12,
+"attributes": {}
+},
+{
+"id": "fa5c37f9-fe26-441e-9009-72411fcbcf30",
+"class_name": "defect_type_1",
+"bbox": [
+473,
+1040,
+504,
+1096
+],
+"polygon": null,
+"mask": null,
+"z_index": 11,
+"attributes": {}
+}
+],
+"tags": []
+}], "attributes": []}
